@@ -22,3 +22,6 @@ Following the trades suggested by the model, a CAGR of 123% was obtained over 4 
 
 NOTE:
 The trades suggested the by the model were end of day trades and selling it as soon as stock market opens, populary known as trading gap ups and gap downs.
+
+Plot obtained on the regression model:
+![image](https://user-images.githubusercontent.com/93089131/225180963-0071e1d4-a298-42f2-8338-8e18205efc9a.png)
